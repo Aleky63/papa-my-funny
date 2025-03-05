@@ -9,9 +9,9 @@
   --font-size-h3: 24px;
   --font-size-button: 24px;
   --font-size-p: 20px;
-  --color-accent: rgb(25, 200, 200);
+  --color-accent: rgb(41, 221, 221);
   --color-accent-dark: rgb(6, 68, 68);
-  --color-accent-model: rgb(41, 131, 146);
+  --color-accent-model: rgb(82, 165, 180);
   --transition-duration: 0.8s;
 }
 
@@ -132,7 +132,7 @@ body {
   text-align: center;
   background-color: rgb(204, 216, 216);
   margin-bottom: 50px;
-  border-bottom: 1px dashed rgb(175, 192, 219);
+  border-bottom: 1px dashed rgb(179, 192, 211);
 }
 
 .choose__img {
